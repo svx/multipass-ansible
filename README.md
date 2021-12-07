@@ -1,0 +1,3 @@
+- https://www.ivankrizsan.se/2021/10/10/creating-multipass-virtual-machines-with-ansible/
+- https://www.ivankrizsan.se/2021/05/16/ansible-and-multipass-virtual-machines/
+- https://docs.k0sproject.io/v0.13.1/examples/ansible-playbook/
